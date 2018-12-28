@@ -1,0 +1,11 @@
+Group_ID ,GroupName,Groupcode 
+1,System Administrators,sysadmin
+2,Addmission Department,sysadmin
+3,Guidance Department,guidance
+4,Library Department,guidence
+5,Independence High Teachers,HS Teachers
+6,John Glenn Middle Teachers,MS Teachers
+7,Liberty Elementary Teachers,Elem Teachers
+8,Elementary Parents,Elem Parents
+9,Middle School Parents,MS Parents
+10,High School Parents,HS Parents
